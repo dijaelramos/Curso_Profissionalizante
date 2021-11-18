@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887545a0-7b5e-4861-a7ff-12c813990608" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/Aula01/Aula01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula01/Exercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula01/ExercicioMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula01/Personagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula02/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula02/calculadoraMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula03/Exercicio02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula03/Exercicio02/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/CarroCombate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/ProfessorHorista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/ProfessoresBolsista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio02/Elevador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio03/InVoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula01/Aula01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula01/Exercicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula01/ExercicioMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula01/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02/calculadoraMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exercicio02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula03/Exercicio02/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/CarroCombate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/ProfessorHorista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/ProfessoresBolsista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio02/Elevador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio03/InVoice.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2160a49ZKQ67PovkdIlbnsk2gt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887545a0-7b5e-4861-a7ff-12c813990608" name="Changes" comment="" />
+      <created>1637246326651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637246326651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
