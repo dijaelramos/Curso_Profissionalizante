@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887545a0-7b5e-4861-a7ff-12c813990608" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/Aula01/Aula01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula01/Exercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula01/ExercicioMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula01/Personagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula02/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula02/calculadoraMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula03/Exercicio02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula03/Exercicio02/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/CarroCombate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio01/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/ProfessorHorista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula04/Exercicio02/ProfessoresBolsista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Agenda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio01/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio02/Elevador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aula05/Exercicio03/InVoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula01/Aula01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula01/Exercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula01/ExercicioMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula01/Personagem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula02/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula02/calculadoraMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exercicio02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula03/Exercicio02/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/CarroCombate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/Professor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/ProfessorHorista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio02/ProfessoresBolsista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Agenda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio01/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio02/Elevador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula05/Exercicio03/InVoice.java" beforeDir="false" />
-    </list>
+    <list default="true" id="887545a0-7b5e-4861-a7ff-12c813990608" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,5 +41,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,13 +1,18 @@
 package CursoProfissionalizante;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class Sala extends Aluno {
 
 	static int totAlunos = 20;
-	static public ArrayList<Aluno> novoAluno = new ArrayList<Aluno>();
+	static public List<Aluno> novoAluno = new ArrayList<>();
+	
+
 	
 	static public boolean matricularAluno(String matricula, String nome, String cpf, int idade) {
+		
 		Aluno a = new Aluno(matricula, nome, cpf, idade);
 		if(novoAluno.size() <= totAlunos) {
 			if(novoAluno.add(a)) {
@@ -16,6 +21,7 @@ public class Sala extends Aluno {
 		}
 		return false;
 	}
+			
 	static public int retornarPosicaoAluno(String matricula) {
 		for(Aluno a : novoAluno) {
 			if(a.getMatricula().equalsIgnoreCase(matricula)) {
@@ -33,7 +39,6 @@ public class Sala extends Aluno {
 		}
 		return false;
 	}
-
 	
 	static public boolean pesquisarAluno(String matricula) {
 		for(Aluno a : novoAluno) {

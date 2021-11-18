@@ -1,7 +1,6 @@
 package CursoProfissionalizante;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
@@ -73,16 +72,16 @@ public class Testes {
 			JOptionPane.showMessageDialog(null, "Lista vazia! \nNenhum aluno matriculado.", "Status",
 					JOptionPane.INFORMATION_MESSAGE);
 		} else {
-			
-			//Collections.sort(Sala.novoAluno.);
-			System.out.println("------------ LISTA DOS ALUNOS MATRICULADOS -----------------------");
+			//Mostrar em ordem Amfabética pelo nome do Aluno
+			Collections.sort(Sala.novoAluno);
+			System.out.println("\n------------ LISTA DOS ALUNOS MATRICULADOS -----------------------");
 			System.out.println(Sala.novoAluno);
-			System.out.println("--------------------------- FIM DA LISTA --------------------------");
+			System.out.println("--------------------------- FIM DA LISTA --------------------------\n");
 		}
 	}
 	
 	static public void inserirNota() {
-		ArrayList<Double> notasAluno = new ArrayList<>();
+		List<Double> notasAluno = new ArrayList<>();
 		
 		int matricula = Integer.parseInt(JOptionPane.showInputDialog(null,
 		"Informe a matricula do aluno que deseja dar uma nota", "BUSCAR ALUNO", 
@@ -114,10 +113,4 @@ public class Testes {
 			}
 		}
 	}
-
-//	private String getNome() {
-//		// TODO Auto-generated method stub
-//		return null;
-//	}
-
 }
