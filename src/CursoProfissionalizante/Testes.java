@@ -30,6 +30,7 @@ public class Testes {
 				JOptionPane.QUESTION_MESSAGE);
 		String cpf = JOptionPane.showInputDialog(null, "Digite o CPF do aluno", "MATRICULA DO ALUNO",
 				JOptionPane.QUESTION_MESSAGE);
+		
 		int idade = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite a idade do aluno", "MATRICULA DO ALUNO",
 				JOptionPane.QUESTION_MESSAGE));
 
