@@ -72,36 +72,4 @@ public class Sala extends Aluno {
 		}
 		return false;
 	}
-}
-
-//	if(novoAluno.size() <= totAlunos) {
-//	if(novoAluno.add(a)) {
-//		return true;
-//	}
-//}
-//return false;
-
-//	for(Aluno a : novoAluno) {
-//	if(a.getMatricula().equalsIgnoreCase(matricula)) {
-//		return novoAluno.indexOf(a);
-//	}
-//}
-//return -1;
-//}
-
-//	for(Aluno a : novoAluno) {
-//	if(a.getMatricula().equalsIgnoreCase(matricula)) {
-//		novoAluno.remove(a);
-//		return true;
-//	}
-//}
-//return false;
-//}
-
-//		for(Aluno a : novoAluno) {
-//			if(a.getMatricula().equalsIgnoreCase(matricula)) {
-//				return true;
-//			}
-//		}
-//		return false;
-//	}	
+}	
